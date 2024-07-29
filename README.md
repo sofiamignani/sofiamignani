@@ -1,6 +1,6 @@
 ## 👋🏻 ¡Hola, soy Sofi!
 
-📚 Con más de tres años de experiencia en el área contable trabajando en grandes empresas, he desarrollado una fuerte base en la gestión y análisis de datos financieros. Mi pasión por los datos me llevó a profundizar mis conocimientos mediante un Bootcamp intensivo de tres meses en Análisis de Datos. Este desafío me enseñó que la perseverancia y la actitud son clave para el éxito profesional.
+📚 Con más de tres años de experiencia en el área contable trabajando en grandes empresas, he desarrollado una fuerte base en la gestión y análisis de datos financieros. Mi pasión por los datos me llevó a profundizar mis conocimientos mediante un Bootcamp intensivo de tres meses en Análisis de Datos, donde he aprendido a crear modelos de datos, realizar análisis exploratorio y desarrollar visualizaciones interactivas utilizando herramientas como SQL Server, Python y Power BI. Este desafío me enseñó que la perseverancia y la actitud son clave para el éxito profesional.
 
 🚀 A lo largo de mi carrera, he desarrollado habilidades analíticas y organizativas que me permiten tomar decisiones informadas y estratégicas. Soy una aprendiz rápida y me apasiona utilizar la tecnología para optimizar procesos y basar decisiones en datos concretos.
 
